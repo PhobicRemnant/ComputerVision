@@ -5,8 +5,6 @@ import sys
 
 """
 This script is an exercise to implement the negative of an image.
-
-The negative of an image
 """
 
 
